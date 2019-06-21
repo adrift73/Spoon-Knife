@@ -1,6 +1,6 @@
 ### Hallo Leute!
 
-Dieses Repository dient als Beispiel für *gabeln* ein Repository auf GitHub.
+Dieses Repo dient als Beispiel für *gabeln* ein Repository auf GitHub.
 
 Ein ... Erstellen *Gabel* erstellt eine persönliche Kopie des Projekts eines anderen. Forks fungieren als eine Art Brücke zwischen dem ursprünglichen Repository und Ihrer persönlichen Kopie. Sie können einreichen *Pull-Anfragen* um die Projekte anderer zu verbessern, indem Sie Ihre Änderungen bis zum ursprünglichen Projekt anbieten. Bei GitHub steht das Forking im Mittelpunkt des Social Codings.
 
