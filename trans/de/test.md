@@ -1,1 +1,3 @@
-asd
+Welcome {name}!
+
+Create new project
