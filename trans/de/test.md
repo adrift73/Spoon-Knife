@@ -1,3 +1,3 @@
-Welcome {name}!
+Willkommen {name}!
 
-Create new project
+Neues Projekt erstellen
